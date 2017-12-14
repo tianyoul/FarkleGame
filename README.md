@@ -1,7 +1,7 @@
 # FarkleGame
 A simple farkle game coded with Java.
 
-To play, run FarkleProgram.java class with IDE.
+To play, run FarkleProgram.java class with IDE or terminal.
 
 rules: https://en.wikipedia.org/wiki/Farkle
 
@@ -22,6 +22,7 @@ Three 5s	500
 
 Three 6s	600
 
+When a player has 10000 points, the other two players each has one more turn, after which the one with highest score wins the game.
 
 The program automatically detects if there is a valid move or the situation is busted.
 
