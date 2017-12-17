@@ -1,8 +1,6 @@
 # FarkleGame
 A simple farkle game coded with Java.
 
-To play, run FarkleProgram.java class with IDE or terminal.
-
 rules: https://en.wikipedia.org/wiki/Farkle
 
 
